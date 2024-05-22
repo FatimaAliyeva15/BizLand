@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Data.deps.json
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Data.runtimeconfig.json
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Data.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Data.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Core.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\bin\Debug\net7.0\BizLand_Core.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_.73D42D08.Up2Date
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\refint\BizLand_Data.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\BizLand_Data.genruntimeconfig.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Data\obj\Debug\net7.0\ref\BizLand_Data.dll

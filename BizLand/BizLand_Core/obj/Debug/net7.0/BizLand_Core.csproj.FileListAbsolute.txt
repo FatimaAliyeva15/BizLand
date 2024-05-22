@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\bin\Debug\net7.0\BizLand_Core.deps.json
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\bin\Debug\net7.0\BizLand_Core.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\bin\Debug\net7.0\BizLand_Core.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\refint\BizLand_Core.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\BizLand_Core.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Core\obj\Debug\net7.0\ref\BizLand_Core.dll

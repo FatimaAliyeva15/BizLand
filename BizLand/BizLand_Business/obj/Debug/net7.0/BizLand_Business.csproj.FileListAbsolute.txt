@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Business.deps.json
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Business.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Business.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Core.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Data.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Data.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\bin\Debug\net7.0\BizLand_Core.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_.2D90817B.Up2Date
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\refint\BizLand_Business.dll
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\BizLand_Business.pdb
+C:\Users\Asus\source\repos\BizLand\BizLand_Business\obj\Debug\net7.0\ref\BizLand_Business.dll
